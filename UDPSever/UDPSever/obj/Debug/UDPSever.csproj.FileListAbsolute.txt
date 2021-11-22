@@ -1,0 +1,8 @@
+D:\Microsoft Visual Studio\UDPSever\UDPSever\bin\Debug\UDPSever.exe.config
+D:\Microsoft Visual Studio\UDPSever\UDPSever\bin\Debug\UDPSever.exe
+D:\Microsoft Visual Studio\UDPSever\UDPSever\bin\Debug\UDPSever.pdb
+D:\Microsoft Visual Studio\UDPSever\UDPSever\obj\Debug\UDPSever.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\UDPSever\UDPSever\obj\Debug\UDPSever.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\UDPSever\UDPSever\obj\Debug\UDPSever.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\UDPSever\UDPSever\obj\Debug\UDPSever.exe
+D:\Microsoft Visual Studio\UDPSever\UDPSever\obj\Debug\UDPSever.pdb

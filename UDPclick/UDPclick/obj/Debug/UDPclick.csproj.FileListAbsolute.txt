@@ -1,0 +1,8 @@
+D:\Microsoft Visual Studio\UDPclick\UDPclick\bin\Debug\UDPclick.exe.config
+D:\Microsoft Visual Studio\UDPclick\UDPclick\bin\Debug\UDPclick.exe
+D:\Microsoft Visual Studio\UDPclick\UDPclick\bin\Debug\UDPclick.pdb
+D:\Microsoft Visual Studio\UDPclick\UDPclick\obj\Debug\UDPclick.csproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\UDPclick\UDPclick\obj\Debug\UDPclick.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\UDPclick\UDPclick\obj\Debug\UDPclick.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\UDPclick\UDPclick\obj\Debug\UDPclick.exe
+D:\Microsoft Visual Studio\UDPclick\UDPclick\obj\Debug\UDPclick.pdb
